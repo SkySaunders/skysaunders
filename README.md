@@ -5,7 +5,7 @@ IT Student, Web Dev, Part-Time human
 ------------------------------------
 
 * 🌍  I'm based in Florence, Alabama
-* 🧠  I'm learning Web Development
+* 🧠  I'm working on Full Stack Dev
 
 ### Skills
 
